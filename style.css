@@ -82,6 +82,11 @@ ul{
     padding: 10px;
     border-radius: 15px;
 }
+.search-icon{
+    position: relative;
+    left: 40px;
+    font-size: 18px;
+}
 .search{
     text-align: center;
     width:100%;
@@ -89,7 +94,7 @@ ul{
 .searchbar input{
     box-sizing: border-box;
     margin-top: 25px;
-    width: 30%;
+    width: 35%;
     background: rgb(31, 30, 30);
     border: 1px solid rgba(128, 128, 128, 0.678);
     border-radius: 25px;
